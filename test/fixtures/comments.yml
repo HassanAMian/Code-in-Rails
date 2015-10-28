@@ -3,9 +3,9 @@
 one:
   name: MyString
   body: MyText
-  post: 
+  post_id: 
 
 two:
   name: MyString
   body: MyText
-  post: 
+  post_id: 
