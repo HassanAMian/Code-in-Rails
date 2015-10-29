@@ -1,28 +1,7 @@
-== README
+== Code in Rails 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a blog based on Mackenzie Child's 12in12 tutorial.  Functionally, following the tutorial got me what I needed, so any personal changes from the tutorial version would be in content, styling, and security.  
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Code in Rails will be deployed as an actual blog where I will discuss various aspects of Ruby on Rails, so I can start contributing to the community.  More to come on that.
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
