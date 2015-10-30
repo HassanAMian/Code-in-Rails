@@ -16,7 +16,7 @@
 @import 'normalize';
 
 html, body {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Arimo', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -34,9 +34,9 @@ a {
 	left: 0;
 	top: 0;
 	height: 100%;
-	background: #f5f7f9;
+	background: #222930;
 	padding: 7em 0 0 0;
-	border-right: 1px solid #d6dce0;
+	border-right: 1px solid #222930;
 	#logo {
 		width: 40px;
 		position: absolute;
@@ -82,7 +82,7 @@ a {
 .button {
 	outline: none;
 	background: transparent;
-	border: 1px solid #d6dce0;
+	border: 1px solid #ffffff;
 	padding: .5em 1.5em;
 	border-radius: 1.5em;
 	&:hover {
@@ -107,7 +107,7 @@ a {
 	#header {
 		padding: 1em 3em;
 		border-bottom: 1px solid #d6dce0;
-		background: #f5f7f9;
+		background: #222930;
 		color: #9eafba;
 		p {
 			display: inline;
