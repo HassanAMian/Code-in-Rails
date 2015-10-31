@@ -34,9 +34,9 @@ a {
 	left: 0;
 	top: 0;
 	height: 100%;
-	background: #222930;
+	background: #252839;
 	padding: 7em 0 0 0;
-	border-right: 1px solid #222930;
+	border-right: 1px solid #252839;
 	#logo {
 		width: 40px;
 		position: absolute;
@@ -51,16 +51,16 @@ a {
 			font-weight: 700;
 			font-size: 0.7em;
 			text-transform: uppercase;
-			color: #33acb7;
+			color: #336ab7;
 		}
 		li {
 			padding: .5em 0;
 			a {
-				color: #9eafba;
+				color: #98dafc;
 				text-decoration: none;
 				transition: all .4s ease;
 				&:hover {
-					color: #33acb7;
+					color: #f2b632;
 				}
 			}
 		}
@@ -107,7 +107,7 @@ a {
 	#header {
 		padding: 1em 3em;
 		border-bottom: 1px solid #d6dce0;
-		background: #222930;
+		background: #252839;
 		color: #9eafba;
 		p {
 			display: inline;
@@ -136,7 +136,7 @@ a {
 				color: #2a2f35;
 				font-size: 1.5em;
 				&:hover {
-					color: #33acb7;
+					color: #336ab7;
 				}
 			}
 		}
