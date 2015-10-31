@@ -13,6 +13,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'devise'
 gem 'will_paginate'
+gem 'bootstrap-sass', '~> 3.3.5'
 
 # gem 'therubyracer', platforms: :ruby
 # Use ActiveModel has_secure_password
